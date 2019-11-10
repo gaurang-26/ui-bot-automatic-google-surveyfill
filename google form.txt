@@ -1,0 +1,31 @@
+
+1. frontsheet
+2. certificate
+3. acknowledgement
+4. abstract
+5. content sheet
+----------------------
+chapter01 - introduction
+chapter02 - problem statement-
+             *to
+             *to
+(min 4)
+
+chapter03 - 	system requirement specified
+chapter04 - 	design and implementation
+        	algo,workflow,steps,
+
+chapter05- 	results and analysis
+           	screenshots.
+chapter06-	conclusion
+chapter07-	future enhancements
+chapter08-	bibliography
+
+
+Prof Poornima KS
+font- Times New Roman
+if possible color print.
+soft bind is preffered
+headers and footers
+align to the rigth side
+dept. of CSE
